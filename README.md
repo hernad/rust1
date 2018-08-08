@@ -4,3 +4,5 @@
 
 * build hb function
 
+* library + bin (src/bin/main.rs)
+
